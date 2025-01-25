@@ -5,11 +5,12 @@
 ## Features
 - **Superior Compression**: Compress images with better quality and smaller sizes compared to leading platforms.
 - **Flexible Input**: Upload existing images or capture new ones using your device's camera.
+- **Supported Image Extensions**: All standard image extensions and HEIC, HEIF (Specific : .jpg, .jpeg, .png, .gif, .bmp, .tiff, .tif, .webp, .heif, .heic, .svg, .ico, .raw, .indd, .ai, .eps).
 - **User-Friendly Interface**: A visually appealing and responsive design powered by Tailwind CSS.
 - **Dynamic Backgrounds and Animations**: Enhances the user experience with smooth animations and a glass-morphic aesthetic.
 
 ## Live Demo
-[Host URL Placeholder] - (Add your hosted URL here)
+https://quick-compress.vercel.app
 
 ## Installation
 1. Clone this repository:
@@ -30,7 +31,7 @@
 
 ## Supported Platforms
 Quick Compress works seamlessly on:
-- Desktop browsers (Chrome, Firefox, Edge, Safari)
+- Desktop browsers (Chrome, Firefox, Edge, Safari, etc)
 - Mobile devices with camera support
 
 ## Technologies Used
@@ -59,10 +60,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 - Developed with ❤️ by [Harshal Pimpalshende](https://github.com/noobacker)
-- Powered by Tailwind CSS and Lucide Icons
 
 ## Contact
 For inquiries or suggestions, please reach out at:
-- Email: [Your Email Here]
+- Email: harshalpimpalshwnde@gmail.com
 - GitHub: [Harshal's GitHub Profile](https://github.com/noobacker)
 
