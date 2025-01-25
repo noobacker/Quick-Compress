@@ -66,3 +66,15 @@ For inquiries or suggestions, please reach out at:
 - Email: harshalpimpalshwnde@gmail.com
 - GitHub: [Harshal's GitHub Profile](https://github.com/noobacker)
 
+## Want to contribute ?
+Your contribution will be highlighted here.
+
+Few Improvements :
+- Delete button in the upload section
+- Some impressiove textual content information about product on the landing page.
+- Add good favicons.
+
+Few Bugs :
+- "Download all button" downloads last image in upload and capture section, it should downlaod all the compressed files.
+
+
